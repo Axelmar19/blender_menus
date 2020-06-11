@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Dynamically created Blender Menu",
-    "author": "Frieder Erdmann, Boris Ignjatovic",
+    "author": "Frieder Erdmann, Boris Ignjatovic, Axel",
     "blender": (2, 80, 3),
     "location": "Menu > Submenus",
     "description": "A test to create dynamic menus",
